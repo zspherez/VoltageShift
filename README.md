@@ -1,3 +1,7 @@
+# I switched to native MacOS, so I do not support this repo anymore.
+
+---
+
 # VoltageShift 
 Undervoltage Tools for MacOS (Haswell and Broadwell)<br />
 Change Turbo and Power Limit for most Intel platform Macbook
